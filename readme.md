@@ -33,7 +33,7 @@ Welcome to my personal portfolio website! This is a fully responsive portfolio s
 3. Open `index.html` in your browser.
 
 ## 🔗 Live Demo
-Check out the live demo [here](your-live-demo-link.com)
+Check out the live demo https://hemanthkumar40-portfolio.netlify.app/
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
